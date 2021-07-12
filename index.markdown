@@ -8,3 +8,6 @@ layout: home
 Present your project here :-)
 
 To modify the layout, see [Overriding the default themes](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
+
+Have Fun!  
+-Janne
